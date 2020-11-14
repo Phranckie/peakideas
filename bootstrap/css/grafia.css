@@ -1,0 +1,34 @@
+html, body{
+    width: 100%;
+    height: 100%;
+}
+#grafiaCarousel{
+    position: relative;
+}
+.navbar{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    background: transparent;
+    border: none !important;
+}
+
+.navbar-right{
+    margin-right: 50px !important;
+}
+
+.navbar-right li a{
+    color: #fff !important;
+}
+
+.navbar-brand{
+    padding: 15px 45px !important;
+}
+
+.dropdown-menu{
+    background: #000;
+}
+
+.dropdown-menu li a:hover{
+    color: tomato !important;
+}
